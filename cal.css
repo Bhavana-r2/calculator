@@ -1,0 +1,45 @@
+button {
+    width: 60px;
+    padding: 20px;
+    margin: 3px;
+    border-radius: 15px;
+}
+.btn-black {
+    width: 60px;
+    padding: 17px;
+    margin: 3px;
+    border-radius: 15px;
+    background-color: #000;
+    color: #fff;
+    font-size: 20px;
+}
+.btn-red {
+    width: 60px;
+    padding: 17px;
+    margin: 3px;
+    border-radius: 15px;
+    background-color:#ae0004;
+    color: #fff;
+    font-size: 20px;
+}
+
+#t1{
+    width: 275px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+
+}
+.t2{
+   
+    border: 2px black solid;
+    width :350px;
+    padding: 15px;
+    padding-bottom: 50px;
+    margin:0 auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: #c6c6c6;
+    text-align: center;
+}
